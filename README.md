@@ -198,16 +198,5 @@ The project highlighted how data-driven analysis can support strategic decision-
 
 Overall, this project provided valuable hands-on experience in analytics, reporting, and performance measurement while strengthening essential digital marketing and analytical skills.
 
----
 
-👩‍💻 Author
 
-Yeturi Nithya Niranjani
-Digital Marketing Intern
-CODTECH IT Solutions
-
----
-
-📌 Note
-
-This project was completed as part of the Digital Marketing Internship Program at CODTECH IT Solutions. The objective was to gain practical experience in website analytics, performance reporting, data interpretation, and digital marketing optimization using Google Analytics.
