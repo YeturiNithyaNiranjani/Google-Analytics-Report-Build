@@ -23,7 +23,7 @@ The main objective is to transform raw website data into a structured performanc
 - Monitor key performance indicators (KPIs).  
 - Evaluate digital marketing performance.  
 - Create a structured and professional analytics report.  
-- Generate actionable insights for optimization.  
+- Generate actionable insights to improve website performance.  
 
 ---
 
@@ -41,13 +41,13 @@ The main objective is to transform raw website data into a structured performanc
 - **Audience Analysis:** Studied user demographics and behavior patterns.  
 - **Traffic Source Evaluation:** Analyzed organic, direct, referral, and social traffic.  
 - **Engagement Assessment:** Evaluated user interaction with website content.  
-- **Data Interpretation:** Identified trends, patterns, and insights.  
+- **Data Interpretation:** Identified trends, user behaviour patterns and performance insights.
 - **Report Generation:** Created structured reports with visual representations.  
 
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
-- Total Users & New Users  
+- Total Users & New Users  ghts
 - Sessions & Page Views  
 - Engagement Rate & Average Engagement Time  
 - Traffic Acquisition Channels  
@@ -58,7 +58,7 @@ The main objective is to transform raw website data into a structured performanc
 ---
 
 ## 📈 Key Findings
-- Organic search is a major source of website traffic.  
+- Organic search generated a significant portion of website traffic.
 - Mobile users contribute significantly to overall traffic.  
 - Engagement varies across different traffic channels.  
 - Certain landing pages perform better in retaining users.  
@@ -95,7 +95,7 @@ These visualizations helped simplify complex data and improved decision-making c
 ---
 
 ## 📋 Conclusion
-The Google Analytics Report Build project demonstrates the importance of data-driven decision-making in digital marketing. By analyzing website traffic, engagement, and user behavior, meaningful insights were generated to evaluate performance and identify improvement areas. This project provided practical exposure to analytics and strengthened analytical thinking skills.
+The Google Analytics Report Build project demonstrates the importance of data-driven decision-making in digital marketing. By analyzing website traffic, engagement, and user behavior, meaningful insights were generated to evaluate performance and identify improvement areas. This project provided practical exposure to analytics and strengthened analytical and reporting skills.
 
 ---
 
