@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Google Analytics Report Build Banner" width="100%">
+</p>
+
 # 📊 Google Analytics Report Build: Internship Project
 
 ## 👩‍💻 Intern Details
