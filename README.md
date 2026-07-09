@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Google Analytics Report Build Banner" width="100%">
 </p>
 
-# 📊 Google Analytics Report Build: Internship Project
+# 📊 Google Analytics Report Build
 
 ## 👩‍💻 Intern Details
 - **Intern Name:** Yeturi Nithya Niranjani  
