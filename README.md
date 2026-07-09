@@ -45,13 +45,13 @@ The main objective is to transform raw website data into a structured performanc
 - **Audience Analysis:** Studied user demographics and behavior patterns.  
 - **Traffic Source Evaluation:** Analyzed organic, direct, referral, and social traffic.  
 - **Engagement Assessment:** Evaluated user interaction with website content.  
-- **Data Interpretation:** Identified trends, user behaviour patterns and performance insights.
+- **Data Interpretation:** Identified trends, user behaviour patterns, and performance insights.
 - **Report Generation:** Created structured reports with visual representations.  
 
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
-- Total Users & New Users  ghts
+- Total Users & New Users  
 - Sessions & Page Views  
 - Engagement Rate & Average Engagement Time  
 - Traffic Acquisition Channels  
