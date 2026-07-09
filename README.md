@@ -101,14 +101,4 @@ These visualizations helped simplify complex data and improved decision-making c
 ## 📋 Conclusion
 The Google Analytics Report Build project demonstrates the importance of data-driven decision-making in digital marketing. By analyzing website traffic, engagement, and user behavior, meaningful insights were generated to evaluate performance and identify improvement areas. This project provided practical exposure to analytics and strengthened analytical and reporting skills.
 
----
 
-## 👩‍💻 Author
-- **Yeturi Nithya Niranjani**  
-- Digital Marketing Intern  
-- CODTECH IT Solutions  
-
----
-
-## 📌 Note
-This project was completed as part of a Digital Marketing Internship at CODTECH IT Solutions to gain practical experience in web analytics, performance tracking, and data-driven marketing analysis.
