@@ -8,7 +8,7 @@
 - **Intern Name:** Yeturi Nithya Niranjani  
 - **Intern ID:** CITS1133  
 - **Internship Domain:** Digital Marketing  
-- **Organization:** CODTECH IT Solutions  
+- **Organization:** CODTECH IT Solutions Private Limited 
 - **Project Title:** Google Analytics Report Build
 
 ---
