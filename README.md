@@ -88,6 +88,11 @@ The collected data was transformed into easy-to-understand visuals, including:
 - Engagement tracking charts  
 
 These visualizations helped simplify complex data and improved decision-making clarity.
+<p align="center">
+  <img src="ga4-google-merchandise-store.png" width="500">
+</p>
+
+<p align="center"><i>Figure 3: GA4 Google Merchandise Store Analytics Dashboard</i></p>
 
 ---
 
