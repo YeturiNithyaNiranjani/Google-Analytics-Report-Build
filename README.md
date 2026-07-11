@@ -45,7 +45,7 @@ The main objective is to transform raw website data into a structured performanc
 - **Audience Analysis:** Studied user demographics and behavior patterns.  
 - **Traffic Source Evaluation:** Analyzed organic, direct, referral, and social traffic.  
 - **Engagement Assessment:** Evaluated user interaction with website content.  
-- **Data Interpretation:** Identified trends, user behaviour patterns, and performance insights.
+- **Data Interpretation:** Identified trends, user behavior patterns, and performance insights.
 - **Report Generation:** Created structured reports with visual representations.  
 
 ---
