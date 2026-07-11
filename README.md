@@ -9,7 +9,7 @@
 - **Intern ID:** CITS1133  
 - **Internship Domain:** Digital Marketing  
 - **Organization:** CODTECH IT Solutions  
-- **Project Title:** Google Analytics Report Build  
+- **Project Title:** Google Analytics Report Build
 
 ---
 
