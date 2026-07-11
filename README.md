@@ -37,6 +37,11 @@ The main objective is to transform raw website data into a structured performanc
 - Microsoft Excel: Used for detailed data analysis and calculations.  
 - Canva: Used for designing charts and visual reports.  
 - Microsoft PowerPoint: Used for presenting findings in a structured format.  
+<p align="center">
+  <img src="tools-technologies.png" width="500">
+</p>
+
+<p align="center"><i>Figure 1: Tools & Technologies Used for Google Analytics Reporting</i></p>
 
 ---
 
