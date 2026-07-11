@@ -52,7 +52,7 @@ The main objective is to transform raw website data into a structured performanc
 
 ## 📊 Key Performance Indicators (KPIs)
 - Total Users & New Users  
-- Sessions & Page Views  
+- Sessions & Views  
 - Engagement Rate & Average Engagement Time  
 - Traffic Acquisition Channels  
 - Device Categories (Mobile, Desktop, Tablet)  
