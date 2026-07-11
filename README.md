@@ -52,6 +52,11 @@ The main objective is to transform raw website data into a structured performanc
 - **Engagement Assessment:** Evaluated user interaction with website content.  
 - **Data Interpretation:** Identified trends, user behavior patterns, and performance insights.
 - **Report Generation:** Created structured reports with visual representations.  
+<p align="center">
+  <img src="methodology.png" width="500">
+</p>
+
+<p align="center"><i>Figure 2: Google Analytics Reporting Methodology</i></p>
 
 ---
 
